@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webvr0/static/css/main.e6c13ad2.css",
-    "main.js": "/webvr0/static/js/main.178483ce.js",
-    "static/js/787.74da2039.chunk.js": "/webvr0/static/js/787.74da2039.chunk.js",
-    "static/media/scope.gltf": "/webvr0/static/media/scope.c24c57b0f891bf7c85f0.gltf",
-    "index.html": "/webvr0/index.html",
-    "main.e6c13ad2.css.map": "/webvr0/static/css/main.e6c13ad2.css.map",
-    "main.178483ce.js.map": "/webvr0/static/js/main.178483ce.js.map",
-    "787.74da2039.chunk.js.map": "/webvr0/static/js/787.74da2039.chunk.js.map"
+    "main.css": "/webvr0/build/static/css/main.e6c13ad2.css",
+    "main.js": "/webvr0/build/static/js/main.ac160569.js",
+    "static/js/787.74da2039.chunk.js": "/webvr0/build/static/js/787.74da2039.chunk.js",
+    "static/media/scope.gltf": "/webvr0/build/static/media/scope.c24c57b0f891bf7c85f0.gltf",
+    "index.html": "/webvr0/build/index.html",
+    "main.e6c13ad2.css.map": "/webvr0/build/static/css/main.e6c13ad2.css.map",
+    "main.ac160569.js.map": "/webvr0/build/static/js/main.ac160569.js.map",
+    "787.74da2039.chunk.js.map": "/webvr0/build/static/js/787.74da2039.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.178483ce.js"
+    "static/js/main.ac160569.js"
   ]
 }
