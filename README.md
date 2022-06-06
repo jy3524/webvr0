@@ -1,1 +1,3 @@
-# WebVR
+# WebVR - aframe
+
+### Scope WebVR version
