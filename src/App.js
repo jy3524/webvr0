@@ -1,7 +1,7 @@
 import React from "react";
 import 'aframe';
 import {Entity, Scene} from 'aframe-react';
-import scope from "./scope.gltf";
+import scope from "./scope.glb";
 
 function App() {
   return (
